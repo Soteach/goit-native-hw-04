@@ -13,7 +13,6 @@ import {
   TouchableWithoutFeedback,
   Dimensions,
 } from 'react-native';
-import { Button } from 'react-native-web';
 
 export default function LoginScreen({ navigation }) {
   console.log('navigation', navigation);
